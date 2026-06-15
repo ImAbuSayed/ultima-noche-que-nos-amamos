@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Última noche que nos amamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
+| **Get License** | [Get a Licensing Quote for Última noche que nos amamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta es la última noche que nos amamos
+> Pero aquí en lo oscuro lento nos devoramos
+> Tus besos saben a culpa, a lujo y a pecado
+> Báilame cerquita, con el mundo ya apagado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
