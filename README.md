@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Última noche que nos amamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
+| **Get License** | [License this song: Última noche que nos amamos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ultima-noche-que-nos-amamos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d900c0a6eeafe02a738d3a0f8470b51073289550bbb9a9244f7c6b6fc7ac41f7` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

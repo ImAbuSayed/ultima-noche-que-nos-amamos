@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Última noche que nos amamos
+
+This log tracks the cryptographic history and versioning for the song **Última noche que nos amamos** (ultima-noche-que-nos-amamos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T20:57:15.862598 | `v1` | `d900c0a6eeafe02a738d3a0f8470b51073289550bbb9a9244f7c6b6fc7ac41f7` | `a38eed1d83102ccbb3e86b568d89739bfbc630f5da363ff58ab7dbcd0aff5bbb` | `2026-06-15_ultima-noche-que-nos-amamos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
